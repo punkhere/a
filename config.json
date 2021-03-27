@@ -1,9 +1,6 @@
 {
   "token": "1756769580:AAFXBhUWDBzYfIM5Jgn_VKLkYeDfVxWvO4g",
-  "db": {
-    "host": "localhost",
-    "port": 27017,
-    "db_name": "animehive"
+  "db": { mongodb+srv://Punk:punk12@cluster0.o0oyg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
   },
   "messages": {
     "start": "Hi {}, Welcome to AnimeHive 🤖\n\nI help download and stream your favourite anime from telegram without ads. I also provide anime recommendations so you never run of anime to watch 🥳🥳🥳",
