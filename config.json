@@ -1,7 +1,7 @@
 {
   "token": "1756769580:AAFXBhUWDBzYfIM5Jgn_VKLkYeDfVxWvO4g",
   "db": {
-    "host": "mongodb+srv://pk:Tony007@pk.jvafo.mongodb.net/test?retryWrites=true&w=majority",
+    "host": "mongodb+srv://parkey:park123@cluster0-hanjg.mongodb.net/test?retryWrites=true&w=majority",
     "port": 27017,
     "db_name": "animehive"
   },
